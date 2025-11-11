@@ -7,5 +7,7 @@ public class practice_Day1 {
         //added some comments here
 
         System.out.println("I did some upgrade");
+
+        //added some comments
     }
 }
